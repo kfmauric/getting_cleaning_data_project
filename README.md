@@ -1,4 +1,4 @@
-# Project for the course getting and cleaning data
+# Project for the course Getting and Cleaning Data
 
 
 This submission contains the following files:
