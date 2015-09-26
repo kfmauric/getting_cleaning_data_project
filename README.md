@@ -2,9 +2,9 @@
 
 
 This submission contains the following files:
--readme.md
--run_analysis.R - R code used to modify the original data
--CodeBook.md - a codebook describing the data set and the modifications made to the original dataset.
+- readme.md
+- run_analysis.R - R code used to modify the original data
+- CodeBook.md - a codebook describing the data set and the modifications made to the original dataset.
 
 Special thanks to the UCI Machine Learning Repository for providing the data. 
 I have included their contact information and citation request below.
@@ -15,7 +15,6 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 For more information about this dataset contact: activityrecognition@smartlab.ws
 
 License:
-========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
 
